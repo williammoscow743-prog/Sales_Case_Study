@@ -1,5 +1,9 @@
 # Retail Sales Case Study (Python)
 
+## 📄 Project Description
+
+[Read the project description (PDF)](Sales_Case_Study_Project_Description.pdf)
+
 ## Project Overview
 
 This project analyses daily retail sales from 30 December 2013 to 16 November 2016. It looks at unit pricing, gross profit, promotional periods and Price Elasticity of Demand (PED), and turns the results into pricing recommendations.
